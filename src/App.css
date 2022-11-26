@@ -1,0 +1,12 @@
+.container {
+  width: 500px;
+  margin: 80px auto;
+  border-radius: 12px;
+  background-color: transparent;
+}
+
+@media screen and (max-width: 678px) {
+  .container {
+    width: 95%;
+  }
+}
